@@ -1,5 +1,5 @@
 # Todo (CLI)
-
+This line was added as part of my Git learning practice.
 > Command-line tool to manage the Todo lists of your projects
 
 ![Todo workflow](https://cloud.githubusercontent.com/assets/6137112/15577881/94d72140-235e-11e6-9f6d-68393c515a33.gif)
